@@ -1,0 +1,1 @@
+export * from './src/app/modules/currency/ng-currency.module';
