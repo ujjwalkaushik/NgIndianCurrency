@@ -1,6 +1,11 @@
 {
   "name": "ng-indian-currency",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "author": "Ujjwal Kaushik <ujjwalkaushik24@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwalkaushik/NgIndianCurrency.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
